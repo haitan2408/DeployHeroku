@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SS19.Deployment _CI_CD.iml" filepath="$PROJECT_DIR$/SS19.Deployment _CI_CD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS15.CaseStudy.iml" filepath="$PROJECT_DIR$/SS15.CaseStudy.iml" />
     </modules>
   </component>
 </project>
